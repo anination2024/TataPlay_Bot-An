@@ -9,20 +9,20 @@ dirName = os.path.basename(dirPath)
 
 
 class TG_CONFIG:
-    api_id = 
+    api_id = "28509727"
 
-    api_hash = ""
+    api_hash = "07d6e9be440c5176552d905c1206602d"
 
-    bot_token = ""
+    bot_token = "7931617358:AAF-mEhifUv0cfBqcLDFnU-lsFogAT9mV-A"
 
     #DEVS or #OWNERS
-    sudo_users = [1984763765, 6360672597]
+    sudo_users = [6041853726]
 
-    session = "conan76_web_dl_bot"
+    session = "Jin_Woo_Rip_bot"
 
-    bot_creater = "Conan76"  # Don't Remove if you Respect the DEV
+    bot_creater = "KafskaHibino"  # Don't Remove if you Respect the DEV
 
-    bot_creater_id = "@conan7612"  # Don't Remove if you Respect the DEV
+    bot_creater_id = "@KafskaHibino"  # Don't Remove if you Respect the DEV
 
 
 class UPLOAD_CONGIF:
@@ -80,15 +80,15 @@ class FILENAME_CONFIG:
 
     underscore_before_after_group_tag = "__"
 
-    language_order = ['hi', 'ta', 'te', 'bn', 'gu', 'pa', 'as', 'or',
+    language_order = ['ta', 'hi', 'te', 'bn', 'gu', 'pa', 'as', 'or',
                     'ml', 'mr', 'kn', 'th', 'ja', 'th', 'id', 'ms', 'ko', 'bho', 'bh', 'en']
 
-    default_group_tag = "RV" # Don't change it if you Respect the DEV
+    default_group_tag = "JW" # Don't change it if you Respect the DEV
 
     #Dict made to add Group Tag according to the user requesting to DL (according to there TG ID) if not in list then takes the default_group_tag
     group_tag_mapping = {
-        '1984763765': 'Conan76',
-        '6360672597' : 'RV'
+        '6185603363': 'KafskaHibino',
+        '6041853726' : 'NOVAEMIMAL1516'
     }
 
 
@@ -107,7 +107,7 @@ A TG WEB-DL Bot</b>
 
 > <code>{}</code>
 
-<b>Made by @conan7612</b>
+<b>Made by @KafskaHibino</b>
 """
 
 SIMPLE_CAPTION = '''<code>{}</code>'''
